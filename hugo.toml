@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-au'
+title = 'A Country Perfect'
+theme = 'hugo-theme-stack'
