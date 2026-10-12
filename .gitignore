@@ -14,3 +14,6 @@ hugo.linux
 
 #mac dsstore file
 .DS_Store
+
+# downloaded stuff from archive.org
+archived_orig
